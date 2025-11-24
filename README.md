@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Jarolin Matos
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🚀 Hi, I'm Jarolin Matos Martínez
+
+💻 Full Stack Developer | Java & SAP Enthusiast
+🟦 Focused on Backend, SAP ABAP/RAP, SAP Fiori & Enterprise Integrations
+📱 Building apps with Java, Node.js, Android, Oracle, APIs, SAP JCo3
+🐘 Exploring ABAP Cloud and modern SAP technologies
+🧠 Passionate about motivation, personal growth & learning daily
 
 <!---
 JarolinM/JarolinM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
